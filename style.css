@@ -266,13 +266,13 @@ hr {
 
 }
 /*project*/
-#projects {
+#Projects {
   padding: 50px 20px;
   background-color: #f4f0ff;
   text-align: center;
 }
 
-#projects h2 {
+#Projects h2 {
   color: #3366ff;
   font-size: 2em;
   margin-bottom: 30px;
@@ -304,7 +304,7 @@ hr {
   margin-bottom: 10px;
 }
 .project-card p{
-  font-size: 22.4px
+  font-size: 22.4pxs
 }
 
 .project-card a {
@@ -320,7 +320,7 @@ hr {
 }
 
 /* Contact Section  */
-#contact {
+#Contact {
   background-color: #f9f9f9;
   padding: 50px 20px;
   color: #333;
@@ -328,34 +328,34 @@ hr {
   font-size: 1.4rem;
 }
 
-#contact h2 {
+#Contact h2 {
   color:  #3366ff;
   font-size: 2em;
   margin-bottom: 15px;
 }
 
-#contact ul {
+#Contact ul {
   list-style: none;
   padding: 0;
   margin-bottom: 30px;
 }
 
-#contact ul li {
+#Contact ul li {
   margin: 10px 0;
   font-size: 1.1em;
 }
 
-#contact a {
+#Contact a {
   color: #3366ff;
   text-decoration: none;
   font-weight: bold;
 }
 
-#contact a:hover {
+#Contact a:hover {
   text-decoration: underline;
 }
 
-#contact form {
+#Contact form {
   max-width: 500px;
   margin: 0 auto;
   background: #ffffff;
@@ -365,15 +365,15 @@ hr {
   text-align: left;
 }
 
-#contact label {
+#Contact label {
   display: block;
   margin-bottom: 5px;
   font-weight: bold;
   color: #555;
 }
 
-#contact input,
-#contact textarea {
+#Contact input,
+#Contact textarea {
   width: 100%;
   padding: 12px;
   margin-bottom: 20px;
@@ -382,7 +382,7 @@ hr {
   font-size: 1em;
 }
 
-#contact button {
+#Contact button {
   width: 100%;
   background-color:  #3366ff;
   color: white;
@@ -394,7 +394,7 @@ hr {
   transition: background-color 0.3s ease;
 }
 
-#contact button:hover {
+#Contact button:hover {
   background-color:  #0f41d8;
 }
 
