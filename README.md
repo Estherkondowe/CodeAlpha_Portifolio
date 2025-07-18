@@ -2,8 +2,9 @@
 
 This is a personal portfolio website created as part of my internship with **Code Alpha**. It highlights my background, skills, and projects I’ve worked on so far in my tech journey.
 
-##  Live Portfolio
- [View Portfolio]([(https://estherportifolio.netlify.app/]))  
+ [View Portfolio](https://estherportifolio.netlify.app/)  
+
+
 
 
 ## Built With
